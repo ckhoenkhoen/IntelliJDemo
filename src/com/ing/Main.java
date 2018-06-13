@@ -6,5 +6,6 @@ public class Main {
 	// write your code here!
         System.out.println("Hallo, wereld!");
         System.out.println("Hallo, dit is toegevoegd op de server!");
+	System.out.println("Hallo, dit is opnieuw toegevoegd op de server!");
     }
 }
